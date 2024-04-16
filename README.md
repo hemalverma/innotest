@@ -27,7 +27,7 @@ password: `12345678`
 
 ## App Download Link
 
-[Download Now](https://github.com/hemalverma/innotest/blob/master/assests/app-portfolio/innotest.apk)
+[Download Now](https://github.com/hemalverma/innotest/blob/master/assets/app-portfolio/innotest.apk)
 
 ## Authors
 
