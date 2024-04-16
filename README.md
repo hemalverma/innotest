@@ -1,16 +1,41 @@
-# innotest
 
-A new Flutter project.
+## Flutter App Assessment
 
-## Getting Started
+Flutter application assessment to demonstrate the implementation of Login and Registration functionality and pagination scroll.
 
-This project is a starting point for a Flutter application.
+Firebase is used to build the app
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Application Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Login (With  Email and Password)
+- Registration (With Email and Password)
+- Pagination Scroll
+
+
+Credentials for login
+
+email: `demo@gmail.com`
+password: `12345678`
+
+
+
+## Screenshots
+
+![App Screenshot]()
+
+
+## App Video
+
+[Watch Video]()
+
+
+## App Download Link
+
+[Download Now](https://github.com/hemalverma/innotest/blob/master/assests/app-portfolio/innotest.apk)
+
+
+
+## Authors
+
+- [@hemalverma](https://www.github.com/hemalverma)
