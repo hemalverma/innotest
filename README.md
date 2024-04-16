@@ -19,14 +19,11 @@ password: `12345678`
 ## Screenshots
 
 <div>
-<img src="https://github.com/hemalverma/innotest/blob/master/assets/app-portfolio/ss1.jpg" alt="screenshot"/>
-<img src="https://github.com/hemalverma/innotest/blob/master/assets/app-portfolio/ss2.jpg" alt="screenshot"/>
-<img src="https://github.com/hemalverma/innotest/blob/master/assets/app-portfolio/ss3.jpg" alt="screenshot"/>
+<img src="https://github.com/hemalverma/innotest/blob/master/assets/app-portfolio/ss1.jpg" alt="screenshot" style="width:160px;"/>
+<img src="https://github.com/hemalverma/innotest/blob/master/assets/app-portfolio/ss2.jpg" alt="screenshot" style="width:160px;"/>
+<img src="https://github.com/hemalverma/innotest/blob/master/assets/app-portfolio/ss3.jpg" alt="screenshot" style="width:160px;"/>
 </div>
 
-## App Video
-
-[Watch Video]()
 
 ## App Download Link
 
