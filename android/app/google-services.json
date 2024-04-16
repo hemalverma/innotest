@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "213670417610",
+    "project_id": "inno-test-2a383",
+    "storage_bucket": "inno-test-2a383.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213670417610:android:0b4f6c4a1e407446c69033",
+        "android_client_info": {
+          "package_name": "com.example.innotest.innotest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATvp4aFkHiiRYh9398hKI9P5hIkSeuhNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213670417610:android:a251d44319f33c48c69033",
+        "android_client_info": {
+          "package_name": "com.example.memoneet_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATvp4aFkHiiRYh9398hKI9P5hIkSeuhNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
